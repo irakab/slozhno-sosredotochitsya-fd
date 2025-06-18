@@ -37,6 +37,10 @@
     --title-bg-color: #FF8DCB;
     --content-text-color: #353430;
     --footer-shadow-color: #FF0070;
+    --bg-color: #fff1f7; /*запасной цвет фона*/
+  }
+  .rec {
+    display: none;
   }
 }
 
@@ -44,3 +48,5 @@
   display: none;
   /* Вам также нужно будет написать ряд подобных селекторов */
 }
+
+

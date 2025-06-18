@@ -11,6 +11,7 @@
   --accent-color: #FF0070; /*главный цвет темной темы, тень*/
   --content-section-title-color: #FF0070; /*основные заголовке главного блока, те что без фона */
   --bg-image: url(../images/cover-image-dark.png);
+  --bg-color: #000028; /*запасной цвет фона*/
   --font-family: IBM Plex Mono, sans-serif;
   --title-text-color: #000028; /*цвет текста заголовков в том числе поле description в шапке*/
   --title-bg-color: #FF0070;/*цвет фона заголовков в том числе поле description в шапке*/

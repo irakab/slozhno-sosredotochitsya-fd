@@ -249,7 +249,7 @@
     padding-inline-start: 0;
     padding-inline-end: 0.6em;
     gap: 108px;
-    margin-inline-end: 10px; 
+    margin-inline-end: 10px;
   }
 
   .decorated-zone::before {
@@ -289,7 +289,7 @@
   .content__section-two-columns {
     display: grid;
     grid-template-columns: 32.5% auto;
-    align-items: start; 
+    align-items: start;
   }
 
   .content__section-two-columns .content__section-title {
@@ -301,7 +301,7 @@
     grid-column: 2;
   }
 
-  .content__section-title-row-style { 
+  .content__section-title-row-style {
     display: block;
     inline-size: min-content;
   }

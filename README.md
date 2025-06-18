@@ -1,1 +1,1 @@
-https://github.com/irakab/slozhno-sosredotochitsya-fd#
+https://github.com/irakab/slozhno-sosredotochitsya-fd

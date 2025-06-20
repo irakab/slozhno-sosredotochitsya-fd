@@ -26,7 +26,7 @@
 }
 
 .rec {
-  display: inline-flex;
+  display: var(--display-rec);
   align-items: center;
   gap: 10px;
   justify-self: end;

@@ -17,4 +17,5 @@
   --title-bg-color: #FF0070;/*цвет фона заголовков в том числе поле description в шапке*/
   --content-text-color: #F1B2CE;
   --footer-shadow-color: #FF0070;
+  --display-rec: inline-flex;
 }

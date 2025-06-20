@@ -22,4 +22,5 @@
   --content-text-color: #F1B2CE;
   --footer-shadow-color: #FF0070;
   --bg-color: #000028; /*запасной цвет фона*/
+  --display-rec: inline-flex;
 }
